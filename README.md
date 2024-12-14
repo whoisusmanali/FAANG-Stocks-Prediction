@@ -1,6 +1,6 @@
 # Time Series Forecasting and Analysis with Streamlit
 
-This project is a web application built using **Streamlit** that provides robust tools for time series forecasting, analysis, and performance enhancement. The application leverages advanced deep learning models to deliver accurate forecasting results while integrating key functionalities such as data cleaning, validation, and performance optimization.
+This project is a web application built using **Streamlit** that provides robust tools for time series forecasting, analysis, and performance enhancement. The application leverages advanced deep learning models to deliver accurate forecasting results while integrating key functionalities such as data cleaning, validation, and performance optimization. In this project, I have focused on predicting the stock values of leading technology and consumer-focused companies, specifically FAANG companies (Facebook, Apple, Amazon, Netflix, Google) and Microsoft.
 
 ## Features
 
