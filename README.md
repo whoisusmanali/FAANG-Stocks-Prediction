@@ -79,4 +79,4 @@ This project is a web application built using **Streamlit** that provides robust
 ## Contact
 For queries, suggestions, or collaboration, please reach out to:
 - **Email**: [whoisusmanali@gmail.com]
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/usman-ali-06a6351b1/)
+- **LinkedIn**: [Usman Ali](https://www.linkedin.com/in/usman-ali-06a6351b1/)
