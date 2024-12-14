@@ -1,4 +1,4 @@
-# Time Series Forecasting and Analysis with Streamlit
+# FAANG Stocks Prediction
 
 This project is a web application built using **Streamlit** that provides robust tools for time series forecasting, analysis, and performance enhancement. The application leverages advanced deep learning models to deliver accurate forecasting results while integrating key functionalities such as data cleaning, validation, and performance optimization. In this project, I have focused on predicting the stock values of leading technology and consumer-focused companies, specifically FAANG companies (Facebook, Apple, Amazon, Netflix, Google) and Microsoft.
 
@@ -32,11 +32,11 @@ This project is a web application built using **Streamlit** that provides robust
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/whoisusmanali/FAANG-Stocks-Prediction.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd time-series-forecasting
+   cd FAANG-Stocks-Prediction
    ```
 3. Install the required dependencies:
    ```bash
@@ -69,8 +69,6 @@ This project is a web application built using **Streamlit** that provides robust
    - Evaluate model performance using metrics like MSE, RMSE, and MAE.
    - Fine-tune the model to improve results.
 
-## Screenshots
-- Add screenshots of the application in action for better understanding.
 
 ## Future Enhancements
 - Integration of additional forecasting models.
@@ -78,14 +76,7 @@ This project is a web application built using **Streamlit** that provides robust
 - Enhanced visualization capabilities.
 - Cloud deployment for wider accessibility.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Contributing
-Contributions are welcome! Please feel free to submit issues and pull requests to enhance the project.
-
 ## Contact
 For queries, suggestions, or collaboration, please reach out to:
-- **Name**: Usman Ali
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email**: [whoisusmanali@gmail.com]
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/usman-ali-06a6351b1/)
